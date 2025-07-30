@@ -14,6 +14,7 @@
 🌱 Learning **backend optimizations, API integrations, and automation**  
 
 🔗 **Connect with me:**  
+[Portfolio](https://personal-portfolio-a5f98.web.app/)
 [LinkedIn](https://www.linkedin.com/in/divyarora0906/) | [X (Twitter)](https://x.com/DivyArora0906)  
 
 💬 **Let’s collaborate!** Open to freelancing, projects, and new opportunities 🚀  
