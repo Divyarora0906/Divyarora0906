@@ -5,7 +5,7 @@
 
 💡 Passionate about **Web & Mobile App Development**, with **30+ projects** completed  
 🔨 Currently working on a **feature-rich mobile app** while exploring new technologies  
-📅 **DOB:** 09 June 2007 (17 Years)  
+📅 **DOB:** 09 June 2007 (18 Years)  
 
 🛠️ Experienced in **MERN Stack, Next.js, React Native, Tailwind CSS, Chakra UI**  
 🔍 Exploring **Machine Learning, WebSockets, and AI-powered solutions**  
